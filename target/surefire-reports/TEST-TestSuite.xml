@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="50.909" tests="12" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.4+11-LTS"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.4_10\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="G:\programs_eclipse\CRMPROTest"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="G:\programs_eclipse\CRMPROTest"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="11.0.4+11-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Vaibhav\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="G:\programs_eclipse\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3834304551273562707.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.4_10\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_231/bin/server;C:/Program Files/Java/jre1.8.0_231/bin;C:/Program Files/Java/jre1.8.0_231/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Amazon Corretto\jdk11.0.4_10\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Git\cmd;C:\Program Files (x86)\Google\Chrome\Application;C:\selenium-java-3.141.59\chromedriver_win32;C:\selenium-java-3.141.59\geckodriver-v0.26.0-win64;C:\Program Files\Ant\apache-ant-1.10.7\bin\bin;C:\Program Files\Ant\apache-ant-1.10.7\bin;C:\Program Files (x86)\Java\jdk1.8.0_91\bin;C:\Program Files (x86)\Java\jdk1.8.0_91\bin;C:\Users\Vaibhav\AppData\Local\Temp\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Users\Vaibhav\AppData\Local\Microsoft\WindowsApps;C:\Users\Vaibhav\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Java\jdk1.8.0_91\bin;;C:\WINDOWS\System32;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Vaibhav"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="Vaibhav"/>
+    <property name="java.class.path" value="C:\Users\Vaibhav\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.13.0.20190716-1623\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.home" value="C:\Program Files\Amazon Corretto\jdk11.0.4_10"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.4"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="maven.home" value="G:\programs_eclipse\CRMPROTest\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-11/issues/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Corretto-11.0.4.11.1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="loginPageTitleTest" classname="com.crm.qa.testCases.LoginPageTest" time="0.018"/>
+  <testcase name="loginPagelogoTest" classname="com.crm.qa.testCases.LoginPageTest" time="0.102"/>
+  <testcase name="loginTest" classname="com.crm.qa.testCases.LoginPageTest" time="24.113"/>
+  <testcase name="verifyHomePageTitleTest" classname="com.crm.qa.testCases.HomePageTest" time="0.008"/>
+  <testcase name="verifyUserNameTest" classname="com.crm.qa.testCases.HomePageTest" time="0.089"/>
+  <testcase name="verifyContactsLinkTest" classname="com.crm.qa.testCases.HomePageTest" time="3.645"/>
+  <testcase name="verifyContactsPageLabel" classname="com.crm.qa.testCases.ContactsPageTest" time="2.861"/>
+  <testcase name="selectContactsCheckboxTest" classname="com.crm.qa.testCases.ContactsPageTest" time="2.787"/>
+  <testcase name="selectMultipleContactsCheckboxTest" classname="com.crm.qa.testCases.ContactsPageTest" time="3.754"/>
+  <testcase name="validateCreateNewContact" classname="com.crm.qa.testCases.ContactsPageTest" time="13.532"/>
+  <testcase name="validateCreateNewContact" classname="com.crm.qa.testCases.ContactsPageTest" time="12.517"/>
+  <testcase name="validateCreateNewContact" classname="com.crm.qa.testCases.ContactsPageTest" time="10.984"/>
+</testsuite>

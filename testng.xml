@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="CRMPROTest" configfailurepolicy="continue" >
+
+	<listeners>
+		<listener class-name="listener.Listeners" />
+	</listeners>
+
+
+	<test name="loginPageTest">
+		<classes>
+			<class name="com.crm.qa.testCases.LoginPageTest" />
+		</classes>
+	</test>
+		<test name="HomePageTest">
+		<classes>
+			<class name="com.crm.qa.testCases.HomePageTest" />
+		</classes>
+	</test>
+	<test name="ContactsPageTest">
+		<classes>
+			<class name="com.crm.qa.testCases.ContactsPageTest" />
+		</classes>
+	</test>
+	
+</suite> <!-- Suite -->
+

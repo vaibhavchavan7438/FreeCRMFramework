@@ -1,0 +1,19 @@
+# Created at 2020-06-03T17:21:41.635
+Boot Manifest-JAR contains absolute paths in classpath 'G:\programs_eclipse\CRMPROTest\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
+# Created at 2020-06-03T17:25:55.725
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-06-03T17:25:55.731
+WARNING: Illegal reflective access by org.dom4j.io.SAXContentHandler (file:/C:/Users/Vaibhav/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar) to method com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$LocatorProxy.getEncoding()
+
+# Created at 2020-06-03T17:25:55.732
+WARNING: Please consider reporting this to the maintainers of org.dom4j.io.SAXContentHandler
+
+# Created at 2020-06-03T17:25:55.736
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-06-03T17:25:55.737
+WARNING: All illegal access operations will be denied in a future release
+
